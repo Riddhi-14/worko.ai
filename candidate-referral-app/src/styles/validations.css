@@ -1,0 +1,9 @@
+/* src/styles/validations.css */
+.is-invalid {
+    border-color: red;
+  }
+  
+  .invalid-feedback {
+    color: red;
+  }
+  
